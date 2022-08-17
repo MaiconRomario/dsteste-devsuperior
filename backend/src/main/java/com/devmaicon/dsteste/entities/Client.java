@@ -83,10 +83,8 @@ public class Client implements Serializable{
 
 	public void setChildren(Integer children) {
 		this.children = children;
-	}
+	}	
 	
-	
-
 	@Override
 	public int hashCode() {
 		final int prime = 31;
